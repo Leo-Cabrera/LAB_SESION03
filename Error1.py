@@ -1,4 +1,4 @@
-print("Quiero dos valores")
+print("Quiero tres valores")
 a = int(input())
 b = int(input())
 c = a - b
