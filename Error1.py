@@ -1,4 +1,4 @@
-print('Dime dos valores')
+print("Quiero dos valores")
 a = int(input())
 b = int(input())
 c = a - b
