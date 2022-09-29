@@ -1,4 +1,4 @@
-print("Quiero el largo y ancho del rectangulo")
+print("Hola Mundo")
 largo-rectangulo = int(input())
 ancho-rectangulo = int(input())
 
